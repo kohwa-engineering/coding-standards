@@ -40,4 +40,4 @@ https://azure.microsoft.com/ja-jp/products/visual-studio-code/
 
 https://docs.microsoft.com/ja-jp/windows/wsl/install
 
-# プログラムを記述する際はフォーマッターを
+# プログラミングする際はフォーマッターを

@@ -142,3 +142,24 @@ if のやつ
 ```ts
 if ()
 ```
+
+# ディレクトリーの基本構成
+
+posts があれば、
+posts/
+posts/index.tsx
+posts/post.tsx
+
+と作成する。
+
+また post.tsx が肥大化、あるいは更にコンポーネントを分けたい場合は、
+posts/post/
+posts/post/index.tsx
+posts/post/SomeComponent.tsx
+
+とする。
+
+# オブジェクト
+
+{ uuid }
+{ uuid: uuid }

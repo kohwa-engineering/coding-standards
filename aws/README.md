@@ -13,7 +13,7 @@
 | {role}          | ロール/役割 [migration-server, contents-server, main-db, frontend, backend...etc] |
 | {account-id}    | アカウント ID                                                                     |
 
-| Kind                 | Example name                                       |
+| Service              | Example name                                       |
 | -------------------- | -------------------------------------------------- |
 | VPC                  | {project}-{env}-vpc                                |
 | Subnet               | {project}-{env}-subnet{n}-{network-layer}-{region} |
